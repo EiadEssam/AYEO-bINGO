@@ -1,2 +1,28 @@
-# AYEO-bINGO
-Play bingo with stunning graphics and unique elements.
+# AYEO-Bingo 🎲
+
+A desktop Bingo game built with Python and Tkinter. Created to practice GUI development, logic structuring, and Python fundamentals in a fun and interactive way.
+
+## 🛠 Features
+- 5x5 Bingo grid with number labels
+- Randomized number generation
+- Basic GUI layout using Tkinter
+- Modular and readable code structure
+
+## 📷 Screenshots
+(Add screenshots here if you have any!)
+
+## 🚀 How to Run
+1. Clone the repository  
+2. Run `bingo.py` using Python 3  
+3. Enjoy the game interface!
+
+## 🧠 Skills Applied
+- Python programming
+- Tkinter GUI development
+- Event-driven design
+
+## 📁 Project Status
+Complete – basic functionality working, play with computer, play multiplayer, and sound effects are also added 
+
+## 🔗 GitHub
+[github.com/EiadEssam/AYEO-bINGO](https://github.com/EiadEssam/AYEO-bINGO)
