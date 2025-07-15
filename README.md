@@ -22,7 +22,7 @@ A desktop Bingo game built with Python and Tkinter. Created to practice GUI deve
 - Event-driven design
 
 ## 📁 Project Status
-Complete – basic functionality working, play with computer, play multiplayer, and sound effects are also added 
+✅ Complete — Includes basic functionality, computer opponent, multiplayer mode, and sound effects.
 
 ## 🔗 GitHub
 [github.com/EiadEssam/AYEO-bINGO](https://github.com/EiadEssam/AYEO-bINGO)
