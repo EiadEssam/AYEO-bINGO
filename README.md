@@ -9,7 +9,7 @@ A desktop Bingo game built with Python and Tkinter. Created to practice GUI deve
 - Modular and readable code structure
 
 ## 📷 Screenshots
-(Add screenshots here if you have any!)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/eea5a5ff-21a3-432e-acb3-236133d5af0a" />
 
 ## 🚀 How to Run
 1. Clone the repository  
